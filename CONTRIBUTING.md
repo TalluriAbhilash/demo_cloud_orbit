@@ -1,4 +1,3 @@
-Thank you for contributing
+# Contributors List
 
-the contributor = 
 - abhilash talluri
